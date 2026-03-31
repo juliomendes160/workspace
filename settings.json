@@ -1,0 +1,21 @@
+{   
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "explorer.autoReveal": false,
+    "explorer.confirmPasteNative": false,
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
